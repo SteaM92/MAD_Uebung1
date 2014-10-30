@@ -8,8 +8,9 @@
 
 #import <UIKit/UIKit.h>
 #import "Album.h"
+#import "AlbumDelegate.h"
 
-@interface DisplayViewController : UIViewController
+@interface DisplayViewController : UIViewController <AlbumDelegate>
 
 @property (weak, nonatomic) IBOutlet UILabel *artistLabel;
 @property (weak, nonatomic) IBOutlet UILabel *albumLabel;

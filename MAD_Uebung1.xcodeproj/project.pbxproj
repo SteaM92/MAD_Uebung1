@@ -101,6 +101,7 @@
 		28A8F8E61A028F3600EB8E85 /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		28A8F8F81A0297DE00EB8E85 /* Album.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Album.h; path = ../Album.h; sourceTree = "<group>"; };
 		28A8F8F91A0297DE00EB8E85 /* Album.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Album.m; path = ../Album.m; sourceTree = "<group>"; };
+		28A8F8FB1A02A31F00EB8E85 /* AlbumDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +148,7 @@
 				28A8F8D51A028F3600EB8E85 /* UIKit+AFNetworking */,
 				28A8F8F81A0297DE00EB8E85 /* Album.h */,
 				28A8F8F91A0297DE00EB8E85 /* Album.m */,
+				28A8F8FB1A02A31F00EB8E85 /* AlbumDelegate.h */,
 				28A8F8871A0289EE00EB8E85 /* DisplayViewController.h */,
 				28A8F8881A0289EE00EB8E85 /* DisplayViewController.m */,
 				28A8F8631A0282E700EB8E85 /* AppDelegate.h */,
