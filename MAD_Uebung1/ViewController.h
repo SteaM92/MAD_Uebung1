@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextField *artistTextField;
+
+- (IBAction)retrieveButton:(id)sender;‚
 
 @end
 
