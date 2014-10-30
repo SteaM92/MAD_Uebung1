@@ -12,7 +12,9 @@
 
 @property (weak, nonatomic) IBOutlet UITextField *artistTextField;
 
-- (IBAction)retrieveButton:(id)sender;‚
+- (IBAction)retrieveButton:(id)sender;
+
+- (void)getJSONFromServerWithArtist: (NSString*) artistName;
 
 @end
 
